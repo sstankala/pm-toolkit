@@ -1,0 +1,3 @@
+ID,Title,Description,Status (Backlog/In Progress/Blocked/Done),Assignee,Story Points,Priority (Low/Med/High),Sprint,Start Date,Due Date,Tags
+US-1,"Sample user story","As a <role>, I want <capability> so that <benefit>","Backlog",,,Medium,,,
+BUG-1,"Sample bug","Describe bug","Backlog",,,High,,,

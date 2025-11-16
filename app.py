@@ -63,4 +63,8 @@ else:
                 st.code(content, language="markdown")
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("💡 *Tip: in interviews, walk through how you actually use each artifact.*")
+st.sidebar.markdown(
+    "* Check Github https://github.com/sstankala/pm-toolkit |  " \
+    "Create templates using python generate_templates.py; " \
+    "fill in content per your project needs ")
+    

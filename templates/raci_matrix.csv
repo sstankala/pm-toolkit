@@ -1,0 +1,6 @@
+Task / Deliverable,Project Manager,Sponsor,Tech Lead,Business Owner,QA Lead
+Define requirements,R/A,C,I,I,I
+Design solution,R,C,A,I,I
+Build & config,I,I,R/A,C,I
+Testing,I,I,C,I,R/A
+Go-live decision,C,A,R,C,I

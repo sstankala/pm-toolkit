@@ -1,0 +1,3 @@
+ID,Date Logged,Category (Risk/Assumption/Issue/Dependency),Title,Description,Impact (Low/Med/High),Probability (Low/Med/High),Owner,Target Resolution Date,Status (Open/Monitoring/Closed),Mitigation / Action Plan,Comments
+1,,Risk,"Hardware delivery delay: Estimated 4 weeks ","Production environment setup will be expcted to ready in 8 weeks",High,Medium,John Frank,,Open,"High-level mitigation plan",""
+2,,Issue,"Technical debt in Release 7.x will become a blocker for xxx product feature integration ","",Medium,Medium,Trevor Stan,,Open,"High-level mitigation plan",""
