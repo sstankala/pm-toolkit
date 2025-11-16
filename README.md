@@ -2,6 +2,7 @@
 
 A lightweight Python + Streamlit toolkit that generates and showcases reusable project & program management templates.
 
+Deployed version available at https://sstankala-pm-toolkit.streamlit.app/
 ## What it includes
 
 - RAID log (`raid_log.csv`)
@@ -19,3 +20,5 @@ python generate_templates.py
 
 # 2. Launch Streamlit app
 streamlit run app.py
+
+
